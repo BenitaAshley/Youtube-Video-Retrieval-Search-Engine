@@ -107,21 +107,20 @@ status and the purple shows the upcoming activities.
 # REFERENCES
 1] Simple BM25 extension to Multiple Weighted Fields by Stephen Robertson,
 Hugo Zaragoza and Michael Taylor Available at
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.9.5255&rep=rep1&t
-ype=pdf
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.9.5255&rep=rep1&type=pdf
+
 2] RankDE: Learning a Ranking Function for Information Retrieval using
 Differential Evolution by Danushka Bollegala, Nasimul Noman, Hitoshi Iba
 available at https://danushka.net/papers/danushka_SIGECF_2011.pdf
-4
-Information Retrieval ( ECS736P) 2022
-Search Engine Design
+
 3] R. Baeza-Yates and B. Ribeiro-Neto. Modern Infor- mation Retrieval.
 Addison-Wesley, 1999
+
 4] Bikas Katwal article on Extended Reciprocal Rank at
-https://towardsdatascience.com/extended-reciprocal-rank-ranking-evaluation-m
-etric-5929573c778a
+https://towardsdatascience.com/extended-reciprocal-rank-ranking-evaluation-metric-5929573c778a
+
 5] Information Retrieval systems and Web Search Engines: A Survey by R.
 Arun Kumar, M. A. Jabbar, Y.V. Bhaskar Reddy available athttps://ijaers.com/uploads/special_issue_files/1502283697-NCTET-CSE-25.pdf
+
 6] Dataset source - Kaggle -
-https://www.kaggle.com/themlphdstudent/data-science-youtube-video-meta-dat
-a
+https://www.kaggle.com/themlphdstudent/data-science-youtube-video-meta-data
